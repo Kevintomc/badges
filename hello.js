@@ -1,1 +1,2 @@
 const pair="badges";
+print ("")
